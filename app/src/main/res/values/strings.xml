@@ -9,4 +9,7 @@
     <string name="dialogo_simple">Dialogo Simple</string>
     <string name="single_choice_dialog">Single Choice Dialog</string>
     <string name="multiple_choice_dialog">Multiple Choice dialog</string>
+
+
+    <string name="lista_proveedores">Lista de Proveedores</string>
 </resources>
